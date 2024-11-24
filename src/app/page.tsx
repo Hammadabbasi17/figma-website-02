@@ -394,7 +394,7 @@ export default function Home() {
         </div>
 
 
-        <div className="w-full h-auto md:h-[100px] mt-[40px] flex  gap-6 justify-center items-center">
+        <div className="w-full h-auto md:h-[100px] mt-[40px] flex gap-5 md:gap-6 justify-center items-center">
                 <h2 className="text-[18px] underline">Popular</h2>
                 <h2 className="text-[18px]">Recommended</h2>
                 <h2 className="text-[18px]">Best Price</h2>
