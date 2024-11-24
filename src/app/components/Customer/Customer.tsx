@@ -15,7 +15,7 @@ const Customer = () => {
 
             <div className="w-full h-auto md:h-[150px] mt-[250px] flex   justify-center items-center " id="Testimonial">
                 <div className="w-[90%] h-auto">
-                    <h1 className="text-[48px] md-[48px] font-[700] text-center lg:text-left">Customer testimonials</h1>
+                    <h1 className="text-[32px] md-[48px] font-[700] text-center lg:text-left">Customer testimonials</h1>
                     <h3 className="text-[18px] font-[400] text-center lg:text-left">Lorem ipsum dolor sit amet, consectetur adipiscing elit. </h3>
                 </div>
             </div>
@@ -30,7 +30,7 @@ const Customer = () => {
 
                 {/* box 1 */}
 
-                <div className="w-[380px] lg:w-[362.67px] h-[321.89px] flex flex-col justify-center gap-7 p-5 border border-black">
+                <div className="w-[350px] lg:w-[362.67px] h-[321.89px] flex flex-col justify-center gap-7 p-5 border border-black">
 
                     <div className="flex text-[20px]">
                         <FaStar />
@@ -65,7 +65,7 @@ const Customer = () => {
 
 
 
-                <div className="w-[380px] lg:w-[362.67px] h-[321.89px] flex flex-col justify-center gap-7 p-5 border border-black">
+                <div className="w-[350px] lg:w-[362.67px] h-[321.89px] flex flex-col justify-center gap-7 p-5 border border-black">
 
                     <div className="flex text-[20px]">
                         <FaStar />
@@ -109,7 +109,7 @@ const Customer = () => {
 
 
                 {/* box 3 */}
-                <div className="w-[380px] lg:w-[362.67px] h-[321.89px] flex flex-col justify-center gap-7 p-5 border border-black">
+                <div className="w-[350px] lg:w-[362.67px] h-[321.89px] flex flex-col justify-center gap-7 p-5 border border-black">
 
                     <div className="flex text-[20px]">
                         <FaStar />
