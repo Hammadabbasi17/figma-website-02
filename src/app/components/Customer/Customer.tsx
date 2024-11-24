@@ -41,7 +41,7 @@ const Customer = () => {
                     </div>
 
 
-                    <h2 className="text-[18px] font-[400]">"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare."</h2>
+                    <h2 className="text-[18px] font-[400]">&quot;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare.&quot;</h2>
 
 
                     <div className="flex  gap-3 justify-left items-center">
@@ -76,7 +76,7 @@ const Customer = () => {
                     </div>
 
 
-                    <h2 className="text-[18px] font-[400]">"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare."</h2>
+                    <h2 className="text-[18px] font-[400]">&quot;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare.&quot;</h2>
 
 
                     <div className="flex  gap-3 justify-left items-center">
@@ -120,7 +120,7 @@ const Customer = () => {
                     </div>
 
 
-                    <h2 className="text-[18px] font-[400]">"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare."</h2>
+                    <h2 className="text-[18px] font-[400]">&quot;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare.&quot;</h2>
 
 
                     <div className="flex  gap-3 justify-left items-center">
