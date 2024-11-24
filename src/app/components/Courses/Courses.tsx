@@ -40,7 +40,7 @@ export const Courses = () => {
                                 <h3 className="pt-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros.</h3>
                                  <div className="flex gap-2">
                                     <button className="w-[177px] h-[40px] text-[16px] mt-4 border bg-transparent border-black rounded-[5px] hover:bg-black hover:text-white transition-all duration-[0.5s]">Enroll Now</button>
-                                    <button className="w-[77px] h-[40px] text-[16px] mt-4 bg-slate-300" >$400</button>
+                                    <button className="w-[77px] h-[40px] text-[16px] mt-4" >$400</button>
                                  </div>
                             </div>
 

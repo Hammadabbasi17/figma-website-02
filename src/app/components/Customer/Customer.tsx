@@ -1,5 +1,7 @@
 import Image from "next/image";
 import Women2 from "../../../../images/women 2.png";
+import Boy1 from "../../../../images/boy 1.png";
+import Women3 from "../../../../images/women 3.png";
 import { FaStar } from "react-icons/fa6";
 import { IoArrowForward } from "react-icons/io5";
 import { IoArrowBackOutline } from "react-icons/io5";
@@ -79,12 +81,12 @@ const Customer = () => {
 
                     <div className="flex  gap-3 justify-left items-center">
                         <div className="w-[56px] h-[56px] ">
-                            <Image className="rounded-[50%]" src={Women2} alt="women2" />
+                            <Image className="rounded-[50%]" src={Boy1} alt="boy1" />
                         </div>
 
                         <div className="" >
-                            <h2 className="text-[16px] font-[600]">James Nduku</h2>
-                            <h3 className="text-[16px] font-[400]">Software Developer</h3>
+                            <h2 className="text-[16px] font-[600]">Erick Kipkemboi</h2>
+                            <h3 className="text-[16px] font-[400]">Scrum Master</h3>
 
                         </div>
                     </div>
@@ -123,12 +125,12 @@ const Customer = () => {
 
                     <div className="flex  gap-3 justify-left items-center">
                         <div className="w-[56px] h-[56px] ">
-                            <Image className="rounded-[50%]" src={Women2} alt="women2" />
+                            <Image className="rounded-[50%]" src={Women3} alt="women3" />
                         </div>
 
                         <div className="" >
-                            <h2 className="text-[16px] font-[600]">James Nduku</h2>
-                            <h3 className="text-[16px] font-[400]">Software Developer</h3>
+                            <h2 className="text-[16px] font-[600]">Stephen Kerubo</h2>
+                            <h3 className="text-[16px] font-[400]">UI/UX Designer</h3>
 
                         </div>
                     </div>
